@@ -110,11 +110,11 @@ function App() {
 
       <p>don't mind the red borders, It's just for "measurements"</p>
 
-      <img src="tararero.png" className="w-80 mt-50"></img>
+      <img src="/tararero.png" className="w-80 mt-50"></img>
       <p className="text-4xl font-black bg-linear-to-r from-red-500 via-green-500 to-blue-500 bg-clip-text text-transparent animate-pulse inline">
         Tralalero tralala
       </p>
-      <img src="WAAK.png" className="w-40"></img>
+      <img src="/bird.png" className="w-40"></img>
       <p className="text-4xl font-black bg-linear-to-r from-black via-white to-black bg-clip-text text-transparent inline">
         DAAAMN
       </p>
